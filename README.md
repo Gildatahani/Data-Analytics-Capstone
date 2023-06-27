@@ -36,4 +36,3 @@ This movie dataset project with a clickstream theme aims to provide valuable ins
 For any inquiries or further information, please contact [gilda.tahani@torontomu.ca].
 
 
-![image](https://github.com/Gildatahani/Data-Analytics-Capstone/assets/134969765/b3c851fd-8f67-44a8-85f3-8be78bedccc6)
